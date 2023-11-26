@@ -1,5 +1,5 @@
 {
-  "name": "components",
+  "name": "@my-repo/components",
   "version": "0.1.0",
   "private": true,
   "main": "./index.tsx",

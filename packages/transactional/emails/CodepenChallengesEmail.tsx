@@ -15,13 +15,13 @@ import {
 } from "@react-email/components";
 import * as React from "react";
 
-import { Wrapper } from "components/index";
+import { Wrapper } from "@my-repo/components";
 
 const baseUrl = process.env.VERCEL_URL
   ? `https://${process.env.VERCEL_URL}`
   : "";
 
-export const CodepenChallengersEmail = () => (
+export const CodepenChallengesEmail = () => (
   <Html>
     <Head />
     <Preview>#CodePenChallenge: Cubes</Preview>
@@ -230,7 +230,7 @@ export const CodepenChallengersEmail = () => (
   </Html>
 );
 
-export default CodepenChallengersEmail;
+export default CodepenChallengesEmail;
 
 const main = {
   fontFamily: '"Google Sans",Roboto,RobotoDraft,Helvetica,Arial,sans-serif',
