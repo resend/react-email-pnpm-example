@@ -1,0 +1,17 @@
+{
+  "name": "@my-repo/transactional",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "email dev"
+  },
+  "dependencies": {
+    "@react-email/components": "0.0.11",
+    "components": "workspace:*",
+    "react": "^18",
+    "react-email": "1.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18"
+  }
+}
