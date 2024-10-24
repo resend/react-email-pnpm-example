@@ -1,5 +1,5 @@
 'use client'
-import { sendCodePenChallenges } from '@/serverActions/sendEmail';
+import { sendCodePenChallenges } from '@/actions/send-email';
 
 import './style.css';
 
