@@ -16,7 +16,7 @@
     "next": "15.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "resend": "^4.0.0"
+    "resend": "^6.0.0"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
