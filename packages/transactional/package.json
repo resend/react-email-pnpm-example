@@ -8,7 +8,7 @@
     "@my-repo/components": "workspace:*",
     "@react-email/components": "1.0.1",
     "react": "^19.0.0",
-    "react-email": "5.0.4"
+    "react-email": "5.0.5"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
