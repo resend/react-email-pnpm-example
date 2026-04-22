@@ -1,0 +1,25 @@
+packages/transactional/package.json
+  0be4475958d44179 9
+apps/next-app/package.json
+  0be4475958d44179 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "2d69e355ee0924921d349f33714030bd049b7fca",
+  "prompts": {
+    "0be4475958d44179": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e45906fa-a2d6-463a-8f05-62707e252535",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "João Melo",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
