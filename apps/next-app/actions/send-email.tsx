@@ -1,7 +1,7 @@
 'use server'
 
 import { Resend } from "resend"
-import { render } from "@react-email/render";
+import { render } from "react-email";
 
 import { CodepenChallengesEmail } from '@my-repo/transactional/emails/CodepenChallengesEmail';
  

@@ -12,7 +12,7 @@ import {
   Section,
   Text,
   Row,
-} from "@react-email/components";
+} from "react-email";
 import * as React from "react";
 
 import { Wrapper } from "@my-repo/components";
