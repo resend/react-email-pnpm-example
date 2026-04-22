@@ -1,0 +1,29 @@
+apps/next-app/package.json
+  0be4475958d44179 17
+packages/transactional/emails/CodepenChallengesEmail.tsx
+  0be4475958d44179 15
+packages/transactional/package.json
+  0be4475958d44179 9,11
+apps/next-app/actions/send-email.tsx
+  0be4475958d44179 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "7afd13842ba48c546d69ac37f0a62fea70b1608f",
+  "prompts": {
+    "0be4475958d44179": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e45906fa-a2d6-463a-8f05-62707e252535",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "João Melo",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 6,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
