@@ -3,8 +3,6 @@ packages:
   - packages/transactional/.react-email
   - apps/*
 
-minimumReleaseAge: 1440
-
 allowBuilds:
   esbuild: true
   sharp: true
