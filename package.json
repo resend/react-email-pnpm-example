@@ -1,5 +1,5 @@
 {
   "name": "react-email-pnpm-example",
   "license": "MIT",
-  "packageManager": "pnpm@11.3.0"
+  "packageManager": "pnpm@12.3.4"
 }
